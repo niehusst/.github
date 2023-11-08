@@ -1,3 +1,4 @@
+```
   _______________________________________
 / In the darkest times, hope is something \
 | you give yourself. That is the meaning  |
@@ -8,4 +9,4 @@
              (__)\       )\/\\
                  ||----w |
                  ||     ||
-    
+``` 
